@@ -1,3 +1,3 @@
-A Pen created at CodePen.io. You can find this one at http://codepen.io/neel2292/pen/wMMBqN.
+This is a voice based chat bot capable of answering FAQs
 
  
